@@ -7,10 +7,10 @@ print("I was born in Chicago")
 print("I was born in Malaysia")
 
 # Food
-print("Roast duck")
+print("My favorite food is roast duck")
 
 # Music
-print("Rock")
+print("I enjoy listening to rock")
 
 # Astrology
-print("Gemini")
+print("My sign is Gemini")
