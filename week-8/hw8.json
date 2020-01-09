@@ -1,0 +1,2578 @@
+{
+    "https://api.foursquare.com/v2/venues/search?client_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-YSR3IE2XZWEYXFCZBY40WCUCHXZYENYBXGXIRZOIUYOTGZ2Z_limit-2_near-ann arbor_query-coffee shop_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0ac7766fc65002c0a2d62"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "512437f0e4b0ae7ce5bf66c8",
+                    "name": "Coffee Shop",
+                    "location": {
+                        "lat": 42.466021,
+                        "lng": -83.401454,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.466021,
+                                "lng": -83.401454
+                            }
+                        ],
+                        "postalCode": "48335",
+                        "cc": "US",
+                        "city": "Farmington",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Farmington, MI 48335",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d16d941735",
+                            "name": "Caf\u00e9",
+                            "pluralName": "Caf\u00e9s",
+                            "shortName": "Caf\u00e9",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572908152",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4ab7e4f3f964a5205c7b20e3",
+                    "name": "Comet Coffee",
+                    "location": {
+                        "address": "16 Nickels Arc",
+                        "crossStreet": "btwn Maynard & State",
+                        "lat": 42.27840773728783,
+                        "lng": -83.74125739401286,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27840773728783,
+                                "lng": -83.74125739401286
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "16 Nickels Arc (btwn Maynard & State)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1e0931735",
+                            "name": "Coffee Shop",
+                            "pluralName": "Coffee Shops",
+                            "shortName": "Coffee Shop",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572908152",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/search?client_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-YSR3IE2XZWEYXFCZBY40WCUCHXZYENYBXGXIRZOIUYOTGZ2Z_limit-2_near-ann arbor_query-coffee_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0ad9160ba08002903d0d4"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "4aee039df964a52051d121e3",
+                    "name": "Sweetwaters Coffee & Tea",
+                    "location": {
+                        "address": "123 W Washington St",
+                        "crossStreet": "at S Ashley St",
+                        "lat": 42.280440528968924,
+                        "lng": -83.74978619252411,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.280440528968924,
+                                "lng": -83.74978619252411
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "neighborhood": "Downtown Ann Arbor",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "123 W Washington St (at S Ashley St)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1e0931735",
+                            "name": "Coffee Shop",
+                            "pluralName": "Coffee Shops",
+                            "shortName": "Coffee Shop",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "venuePage": {
+                        "id": "548109326"
+                    },
+                    "referralId": "v-1572908446",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4ab7e4f3f964a5205c7b20e3",
+                    "name": "Comet Coffee",
+                    "location": {
+                        "address": "16 Nickels Arc",
+                        "crossStreet": "btwn Maynard & State",
+                        "lat": 42.27840773728783,
+                        "lng": -83.74125739401286,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27840773728783,
+                                "lng": -83.74125739401286
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "16 Nickels Arc (btwn Maynard & State)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1e0931735",
+                            "name": "Coffee Shop",
+                            "pluralName": "Coffee Shops",
+                            "shortName": "Coffee Shop",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572908446",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/search?client_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-0M3DJSINVQDHYTYZYB0RKR3V0JV2US3I11COK1TLOLGU55YA_limit-2_near-ann arbor_query-coffee shop_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0cb79a1db64002cdf071f"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "512437f0e4b0ae7ce5bf66c8",
+                    "name": "Coffee Shop",
+                    "location": {
+                        "lat": 42.466021,
+                        "lng": -83.401454,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.466021,
+                                "lng": -83.401454
+                            }
+                        ],
+                        "postalCode": "48335",
+                        "cc": "US",
+                        "city": "Farmington",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Farmington, MI 48335",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d16d941735",
+                            "name": "Caf\u00e9",
+                            "pluralName": "Caf\u00e9s",
+                            "shortName": "Caf\u00e9",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572916089",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5c826cd3237dee002c4c22be",
+                    "name": "Hyatt Place Coffee Shop",
+                    "location": {
+                        "lat": 42.48948,
+                        "lng": -83.50086,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.48948,
+                                "lng": -83.50086
+                            }
+                        ],
+                        "postalCode": "48374",
+                        "cc": "US",
+                        "city": "Novi",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Novi, MI 48374",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1e0931735",
+                            "name": "Coffee Shop",
+                            "pluralName": "Coffee Shops",
+                            "shortName": "Coffee Shop",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572916089",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/512437f0e4b0ae7ce5bf66c8/photosclient_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-0M3DJSINVQDHYTYZYB0RKR3V0JV2US3I11COK1TLOLGU55YA_limit-2_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0cb7a2c2017003647a33a"
+        },
+        "response": {
+            "photos": {
+                "count": 1,
+                "items": [
+                    {
+                        "id": "5290bfaf11d2e62def600d3d",
+                        "createdAt": 1385217967,
+                        "source": {
+                            "name": "Instagram",
+                            "url": "http://instagram.com"
+                        },
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/18723656_2xXqGm8_13IFL5sF_3Op5-FvSiks0piptHsb6USk878.jpg",
+                        "width": 640,
+                        "height": 640,
+                        "user": {
+                            "id": "18723656",
+                            "firstName": "Willie",
+                            "lastName": "Stylez",
+                            "gender": "male",
+                            "photo": {
+                                "prefix": "https://fastly.4sqi.net/img/user/",
+                                "suffix": "/5PH2PJC4T23UYYCO.png"
+                            }
+                        },
+                        "checkin": {
+                            "id": "5290bfaf498e42a6ea017960",
+                            "createdAt": 1385217967,
+                            "type": "checkin",
+                            "timeZoneOffset": -300
+                        },
+                        "visibility": "public"
+                    }
+                ],
+                "dupesRemoved": 0
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/5c826cd3237dee002c4c22be/photosclient_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-0M3DJSINVQDHYTYZYB0RKR3V0JV2US3I11COK1TLOLGU55YA_limit-2_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0cb7aa87921002c419ca0"
+        },
+        "response": {
+            "photos": {
+                "count": 0,
+                "items": [],
+                "dupesRemoved": 0
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/search?client_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-0M3DJSINVQDHYTYZYB0RKR3V0JV2US3I11COK1TLOLGU55YA_limit-2_near-ann arbor_query-pizza_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0d302598e64002cf2c2c6"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "46055ebaf964a520bf441fe3",
+                    "name": "NYPD - New York Pizza Depot",
+                    "location": {
+                        "address": "605 E William St",
+                        "crossStreet": "at Maynard St.",
+                        "lat": 42.27791803913224,
+                        "lng": -83.74181199905526,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27791803913224,
+                                "lng": -83.74181199905526
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "605 E William St (at Maynard St.)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1051191",
+                        "url": "https://www.grubhub.com/restaurant/new-york-pizza-depot-605-e-william-st-ann-arbor/1051191?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1051191",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572918018",
+                    "hasPerk": false
+                },
+                {
+                    "id": "454b338bf964a520ae3c1fe3",
+                    "name": "Pizza House",
+                    "location": {
+                        "address": "618 Church St",
+                        "lat": 42.274266351070416,
+                        "lng": -83.73459227013734,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.274266351070416,
+                                "lng": -83.73459227013734
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "618 Church St",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1134208",
+                        "url": "https://www.grubhub.com/restaurant/pizza-house-618-church-st-ann-arbor/1134208?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1134208",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572918018",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/46055ebaf964a520bf441fe3/photosclient_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-0M3DJSINVQDHYTYZYB0RKR3V0JV2US3I11COK1TLOLGU55YA_limit-2_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0d302a4b51b002c8ea067"
+        },
+        "response": {
+            "photos": {
+                "count": 1,
+                "items": [
+                    {
+                        "id": "507de772e4b073f907857a4b",
+                        "createdAt": 1350428530,
+                        "source": {
+                            "name": "Foursquare for Android",
+                            "url": "https://foursquare.com/download/#/android"
+                        },
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/5785379_LkpDmldf7AH41OBDY8s_0dur6WsGeg9gekAXaxDf3x0.jpg",
+                        "width": 540,
+                        "height": 720,
+                        "user": {
+                            "id": "5785379",
+                            "firstName": "Pei-Yao",
+                            "lastName": "Hung",
+                            "gender": "male",
+                            "photo": {
+                                "prefix": "https://fastly.4sqi.net/img/user/",
+                                "suffix": "/PGYOF034LLJ3ECEX.jpg"
+                            }
+                        },
+                        "checkin": {
+                            "id": "507de770e4b0853fb5de31a8",
+                            "createdAt": 1350428528,
+                            "type": "checkin",
+                            "timeZoneOffset": -240
+                        },
+                        "visibility": "public"
+                    }
+                ],
+                "dupesRemoved": 0
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/454b338bf964a520ae3c1fe3/photosclient_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-0M3DJSINVQDHYTYZYB0RKR3V0JV2US3I11COK1TLOLGU55YA_limit-2_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0d303c58ed7002cd351d7"
+        },
+        "response": {
+            "photos": {
+                "count": 1,
+                "items": [
+                    {
+                        "id": "4fe8994ce4b0117429c3a435",
+                        "createdAt": 1340643660,
+                        "source": {
+                            "name": "Foursquare for Android",
+                            "url": "https://foursquare.com/download/#/android"
+                        },
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/bWGeSW4rXJvpXUD0tY8luQGdmGnogDL-Yxx3WGWKxD0.jpg",
+                        "width": 540,
+                        "height": 720,
+                        "user": {
+                            "id": "31198949",
+                            "firstName": "Noah",
+                            "lastName": "Molton",
+                            "gender": "male",
+                            "photo": {
+                                "prefix": "https://fastly.4sqi.net/img/user/",
+                                "suffix": "/E5UZHAR2HEIRFUHG.jpg"
+                            }
+                        },
+                        "checkin": {
+                            "id": "4fe8994ae4b0b901b0df47ce",
+                            "createdAt": 1340643658,
+                            "type": "checkin",
+                            "timeZoneOffset": -240
+                        },
+                        "visibility": "public"
+                    }
+                ],
+                "dupesRemoved": 0
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/search?client_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-VUFVCNBOSVDRFZD3HLXDSW2Z2ZCVCEXODPZHJA1BCAK3BEAV_limit-2_near-ann arbor_query-pizza_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0e21cd03d29002bec565c"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "46055ebaf964a520bf441fe3",
+                    "name": "NYPD - New York Pizza Depot",
+                    "location": {
+                        "address": "605 E William St",
+                        "crossStreet": "at Maynard St.",
+                        "lat": 42.27791803913224,
+                        "lng": -83.74181199905526,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27791803913224,
+                                "lng": -83.74181199905526
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "605 E William St (at Maynard St.)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1051191",
+                        "url": "https://www.grubhub.com/restaurant/new-york-pizza-depot-605-e-william-st-ann-arbor/1051191?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1051191",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572921884",
+                    "hasPerk": false
+                },
+                {
+                    "id": "454b338bf964a520ae3c1fe3",
+                    "name": "Pizza House",
+                    "location": {
+                        "address": "618 Church St",
+                        "lat": 42.274266351070416,
+                        "lng": -83.73459227013734,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.274266351070416,
+                                "lng": -83.73459227013734
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "618 Church St",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1134208",
+                        "url": "https://www.grubhub.com/restaurant/pizza-house-618-church-st-ann-arbor/1134208?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1134208",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572921884",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/search?client_id-JGIZZSQSOT5C3VSEMN0MLBCZVHT4LT00YRKIGNV5XU0RH0IO_client_secret-SAKZPFXAPXQSSFR3ROEXWZR12YQXXFD05VW1JEKSSFJBFOOB_limit-2_near-ann arbor_query-pizza_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0e27e92393500250ca8fa"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "46055ebaf964a520bf441fe3",
+                    "name": "NYPD - New York Pizza Depot",
+                    "location": {
+                        "address": "605 E William St",
+                        "crossStreet": "at Maynard St.",
+                        "lat": 42.27791803913224,
+                        "lng": -83.74181199905526,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27791803913224,
+                                "lng": -83.74181199905526
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "605 E William St (at Maynard St.)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1051191",
+                        "url": "https://www.grubhub.com/restaurant/new-york-pizza-depot-605-e-william-st-ann-arbor/1051191?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1051191",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922012",
+                    "hasPerk": false
+                },
+                {
+                    "id": "454b338bf964a520ae3c1fe3",
+                    "name": "Pizza House",
+                    "location": {
+                        "address": "618 Church St",
+                        "lat": 42.274266351070416,
+                        "lng": -83.73459227013734,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.274266351070416,
+                                "lng": -83.73459227013734
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "618 Church St",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1134208",
+                        "url": "https://www.grubhub.com/restaurant/pizza-house-618-church-st-ann-arbor/1134208?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1134208",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922012",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/search?client_id-TXHWJUU3WMVPAAKHFI0ZKAFFEOVNQD2LGGLSMCBQGIMDWPUQ_client_secret-CIBFOURB4FVB3ZEF3FURXQWY5DHTORXAHC2BRLHSHBL5JFZM_limit-2_near-ann arbor_query-pizza_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0e306342adf003825900a"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "46055ebaf964a520bf441fe3",
+                    "name": "NYPD - New York Pizza Depot",
+                    "location": {
+                        "address": "605 E William St",
+                        "crossStreet": "at Maynard St.",
+                        "lat": 42.27791803913224,
+                        "lng": -83.74181199905526,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27791803913224,
+                                "lng": -83.74181199905526
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "605 E William St (at Maynard St.)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1051191",
+                        "url": "https://www.grubhub.com/restaurant/new-york-pizza-depot-605-e-william-st-ann-arbor/1051191?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1051191",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922118",
+                    "hasPerk": false
+                },
+                {
+                    "id": "454b338bf964a520ae3c1fe3",
+                    "name": "Pizza House",
+                    "location": {
+                        "address": "618 Church St",
+                        "lat": 42.274266351070416,
+                        "lng": -83.73459227013734,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.274266351070416,
+                                "lng": -83.73459227013734
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "618 Church St",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1134208",
+                        "url": "https://www.grubhub.com/restaurant/pizza-house-618-church-st-ann-arbor/1134208?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1134208",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922118",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/46055ebaf964a520bf441fe3/photosclient_id-TXHWJUU3WMVPAAKHFI0ZKAFFEOVNQD2LGGLSMCBQGIMDWPUQ_client_secret-CIBFOURB4FVB3ZEF3FURXQWY5DHTORXAHC2BRLHSHBL5JFZM_limit-2_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0e306cad1b6002c6052a4"
+        },
+        "response": {
+            "photos": {
+                "count": 1,
+                "items": [
+                    {
+                        "id": "507de772e4b073f907857a4b",
+                        "createdAt": 1350428530,
+                        "source": {
+                            "name": "Foursquare for Android",
+                            "url": "https://foursquare.com/download/#/android"
+                        },
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/5785379_LkpDmldf7AH41OBDY8s_0dur6WsGeg9gekAXaxDf3x0.jpg",
+                        "width": 540,
+                        "height": 720,
+                        "user": {
+                            "id": "5785379",
+                            "firstName": "Pei-Yao",
+                            "lastName": "Hung",
+                            "gender": "male",
+                            "photo": {
+                                "prefix": "https://fastly.4sqi.net/img/user/",
+                                "suffix": "/PGYOF034LLJ3ECEX.jpg"
+                            }
+                        },
+                        "checkin": {
+                            "id": "507de770e4b0853fb5de31a8",
+                            "createdAt": 1350428528,
+                            "type": "checkin",
+                            "timeZoneOffset": -240
+                        },
+                        "visibility": "public"
+                    }
+                ],
+                "dupesRemoved": 0
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/454b338bf964a520ae3c1fe3/photosclient_id-TXHWJUU3WMVPAAKHFI0ZKAFFEOVNQD2LGGLSMCBQGIMDWPUQ_client_secret-CIBFOURB4FVB3ZEF3FURXQWY5DHTORXAHC2BRLHSHBL5JFZM_limit-2_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0e28802a172002876b8fd"
+        },
+        "response": {
+            "photos": {
+                "count": 1,
+                "items": [
+                    {
+                        "id": "4fe8994ce4b0117429c3a435",
+                        "createdAt": 1340643660,
+                        "source": {
+                            "name": "Foursquare for Android",
+                            "url": "https://foursquare.com/download/#/android"
+                        },
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/bWGeSW4rXJvpXUD0tY8luQGdmGnogDL-Yxx3WGWKxD0.jpg",
+                        "width": 540,
+                        "height": 720,
+                        "user": {
+                            "id": "31198949",
+                            "firstName": "Noah",
+                            "lastName": "Molton",
+                            "gender": "male",
+                            "photo": {
+                                "prefix": "https://fastly.4sqi.net/img/user/",
+                                "suffix": "/E5UZHAR2HEIRFUHG.jpg"
+                            }
+                        },
+                        "checkin": {
+                            "id": "4fe8994ae4b0b901b0df47ce",
+                            "createdAt": 1340643658,
+                            "type": "checkin",
+                            "timeZoneOffset": -240
+                        },
+                        "visibility": "public"
+                    }
+                ],
+                "dupesRemoved": 0
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/search?client_id-TXHWJUU3WMVPAAKHFI0ZKAFFEOVNQD2LGGLSMCBQGIMDWPUQ_client_secret-NM0SIVFKTJPHPURD4KVW0KZWIYGTINZYIM3MU4HMKG4NNC5K_limit-25_near-ann arbor_query-pizza_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0e3e066fc65002c718b23"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "46055ebaf964a520bf441fe3",
+                    "name": "NYPD - New York Pizza Depot",
+                    "location": {
+                        "address": "605 E William St",
+                        "crossStreet": "at Maynard St.",
+                        "lat": 42.27791803913224,
+                        "lng": -83.74181199905526,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27791803913224,
+                                "lng": -83.74181199905526
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "605 E William St (at Maynard St.)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1051191",
+                        "url": "https://www.grubhub.com/restaurant/new-york-pizza-depot-605-e-william-st-ann-arbor/1051191?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1051191",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "454b338bf964a520ae3c1fe3",
+                    "name": "Pizza House",
+                    "location": {
+                        "address": "618 Church St",
+                        "lat": 42.274266351070416,
+                        "lng": -83.73459227013734,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.274266351070416,
+                                "lng": -83.73459227013734
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "618 Church St",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1134208",
+                        "url": "https://www.grubhub.com/restaurant/pizza-house-618-church-st-ann-arbor/1134208?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1134208",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4b36c2dcf964a520023c25e3",
+                    "name": "Backroom Pizza",
+                    "location": {
+                        "address": "605 Church St",
+                        "crossStreet": "at S University Ave",
+                        "lat": 42.27480495398985,
+                        "lng": -83.73452080108135,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27480495398985,
+                                "lng": -83.73452080108135
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "605 Church St (at S University Ave)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bc6b1be424195216793041d",
+                    "name": "Cottage Inn Pizza",
+                    "location": {
+                        "address": "546 Packard St",
+                        "crossStreet": "Hill",
+                        "lat": 42.2719855,
+                        "lng": -83.7421407,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.2719855,
+                                "lng": -83.7421407
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "546 Packard St (Hill)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4c2cd86ed066bed06c3c5209",
+                            "name": "Gluten-free Restaurant",
+                            "pluralName": "Gluten-free Restaurants",
+                            "shortName": "Gluten-free",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/glutenfree_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "277325",
+                        "url": "https://www.grubhub.com/restaurant/cottage-inn-pizza-546-packard-st-ann-arbor/277325?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=277325",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4e4e523fbd4101d0d7a7aec4",
+                    "name": "In And Out Pizza",
+                    "location": {
+                        "address": "615 E University Ave",
+                        "lat": 42.273842,
+                        "lng": -83.73576,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.273842,
+                                "lng": -83.73576
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "615 E University Ave",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5d7b24d1f6e3190008c31a27",
+                    "name": "Joe\u2019s Pizza",
+                    "location": {
+                        "lat": 42.274955,
+                        "lng": -83.735842,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.274955,
+                                "lng": -83.735842
+                            }
+                        ],
+                        "postalCode": "48109",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Ann Arbor, MI 48109",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4af22c56f964a52054e621e3",
+                    "name": "Silvio's Organic Pizza",
+                    "location": {
+                        "address": "715 N University Ave",
+                        "lat": 42.27875828048369,
+                        "lng": -83.74002518123855,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27875828048369,
+                                "lng": -83.74002518123855
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "715 N University Ave",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "260765",
+                        "url": "https://www.grubhub.com/restaurant/silvios-organic-pizza-715-n-university-ave-ann-arbor/260765?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=260765",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4c116b2dd41e76b0d260310d",
+                    "name": "Cottage Inn Pizza",
+                    "location": {
+                        "address": "1141 Broadway St",
+                        "crossStreet": "Plymouth",
+                        "lat": 42.29067261547979,
+                        "lng": -83.737047080649,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.29067261547979,
+                                "lng": -83.737047080649
+                            }
+                        ],
+                        "postalCode": "48105",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "1141 Broadway St (Plymouth)",
+                            "Ann Arbor, MI 48105",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4c2cd86ed066bed06c3c5209",
+                            "name": "Gluten-free Restaurant",
+                            "pluralName": "Gluten-free Restaurants",
+                            "shortName": "Gluten-free",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/glutenfree_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "277328",
+                        "url": "https://www.grubhub.com/restaurant/cottage-inn-pizza-1141-broadway-st-ann-arbor/277328?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=277328",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bc7a66915a7ef3beddc79da",
+                    "name": "Pizza Bob's",
+                    "location": {
+                        "address": "814 S State St",
+                        "crossStreet": "Hill & Packard",
+                        "lat": 42.27144199986376,
+                        "lng": -83.74068332787674,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27144199986376,
+                                "lng": -83.74068332787674
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "814 S State St (Hill & Packard)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "1104422",
+                        "url": "https://www.grubhub.com/restaurant/pizza-bobs-814-s-state-st-ann-arbor/1104422?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1104422",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "venuePage": {
+                        "id": "475504924"
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bf43c0e2d629521ae186058",
+                    "name": "Little Caesars Pizza",
+                    "location": {
+                        "address": "1944 W Stadium Blvd",
+                        "lat": 42.269860785392105,
+                        "lng": -83.77293171670244,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.269860785392105,
+                                "lng": -83.77293171670244
+                            }
+                        ],
+                        "postalCode": "48103",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "1944 W Stadium Blvd",
+                            "Ann Arbor, MI 48103",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "282695",
+                        "url": "https://www.grubhub.com/restaurant/little-caesars-pizza-1944-w-stadium-blvd-ann-arbor/282695?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=282695",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4b563646f964a5208f0528e3",
+                    "name": "California Pizza Kitchen",
+                    "location": {
+                        "address": "870 Briarwood Cir.",
+                        "crossStreet": "Briarwood Mall",
+                        "lat": 42.24064,
+                        "lng": -83.744902,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.24064,
+                                "lng": -83.744902
+                            }
+                        ],
+                        "postalCode": "48108",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "870 Briarwood Cir. (Briarwood Mall)",
+                            "Ann Arbor, MI 48108",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "435167",
+                        "url": "https://www.grubhub.com/restaurant/california-pizza-kitchen-870-briarwood-cir-ann-arbor/435167?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=435167",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4b5810f2f964a520104a28e3",
+                    "name": "Cottage Inn Pizza",
+                    "location": {
+                        "address": "2301 W Stadium Blvd",
+                        "crossStreet": "btwn Jackson & Liberty",
+                        "lat": 42.276164,
+                        "lng": -83.778655,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.276164,
+                                "lng": -83.778655
+                            }
+                        ],
+                        "postalCode": "48103",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "2301 W Stadium Blvd (btwn Jackson & Liberty)",
+                            "Ann Arbor, MI 48103",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4c2cd86ed066bed06c3c5209",
+                            "name": "Gluten-free Restaurant",
+                            "pluralName": "Gluten-free Restaurants",
+                            "shortName": "Gluten-free",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/glutenfree_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "277324",
+                        "url": "https://www.grubhub.com/restaurant/cottage-inn-2301-w-stadium-blvd-ann-arbor/277324?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=277324",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bb2962414cfd13aac2c15ab",
+                    "name": "South U Pizza",
+                    "location": {
+                        "address": "1106 S University Ave",
+                        "lat": 42.27497908372269,
+                        "lng": -83.73520825220072,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.27497908372269,
+                                "lng": -83.73520825220072
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "1106 S University Ave",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "315705",
+                        "url": "https://www.grubhub.com/restaurant/south-u-pizza-1106-s-university-ave-ann-arbor/315705?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=315705",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5864bd382ec364572ebe5e93",
+                    "name": "Domino's Pizza",
+                    "location": {
+                        "address": "716 Packard St",
+                        "lat": 42.2704018,
+                        "lng": -83.7403856,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.2704018,
+                                "lng": -83.7403856
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "716 Packard St",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f323c5a19836c91c7c38fb3",
+                    "name": "Little Caesars Pizza",
+                    "location": {
+                        "address": "530 S State St",
+                        "lat": 42.274724,
+                        "lng": -83.740681,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.274724,
+                                "lng": -83.740681
+                            }
+                        ],
+                        "postalCode": "48109",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "530 S State St",
+                            "Ann Arbor, MI 48109",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4e4d4ed6bd413c4cc6701459",
+                    "name": "Villa Pizza",
+                    "location": {
+                        "address": "530 S State St",
+                        "lat": 42.274472,
+                        "lng": -83.740671,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.274472,
+                                "lng": -83.740671
+                            }
+                        ],
+                        "postalCode": "48109",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "530 S State St",
+                            "Ann Arbor, MI 48109",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4b967e21f964a520c0cf34e3",
+                    "name": "Cottage Inn Pizza",
+                    "location": {
+                        "address": "2900 S State St, Ste 5",
+                        "crossStreet": "Eisenhowser",
+                        "lat": 42.24526,
+                        "lng": -83.74034,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.24526,
+                                "lng": -83.74034
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "2900 S State St, Ste 5 (Eisenhowser)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4c2cd86ed066bed06c3c5209",
+                            "name": "Gluten-free Restaurant",
+                            "pluralName": "Gluten-free Restaurants",
+                            "shortName": "Gluten-free",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/glutenfree_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "delivery": {
+                        "id": "277323",
+                        "url": "https://www.grubhub.com/restaurant/cottage-inn-pizza-2900-s-state-st-ann-arbor-/277323?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=277323",
+                        "provider": {
+                            "name": "grubhub",
+                            "icon": {
+                                "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                "sizes": [
+                                    40,
+                                    50
+                                ],
+                                "name": "/delivery_provider_grubhub_20180129.png"
+                            }
+                        }
+                    },
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "57032ace498e086a1970a95d",
+                    "name": "Happy's Pizza",
+                    "location": {
+                        "lat": 42.270949,
+                        "lng": -83.740723,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.270949,
+                                "lng": -83.740723
+                            }
+                        ],
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Ann Arbor, MI",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4f176259e4b0f1e7ba562d34",
+                    "name": "Pizza Hut",
+                    "location": {
+                        "crossStreet": "Target",
+                        "lat": 42.24380934311091,
+                        "lng": -83.76934016006548,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.24380934311091,
+                                "lng": -83.76934016006548
+                            }
+                        ],
+                        "postalCode": "48108",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Ann Arbor, MI 48108",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4b2c1e14f964a52008c224e3",
+                    "name": "Little Caesars Pizza",
+                    "location": {
+                        "address": "3000 Packard St",
+                        "lat": 42.24480408303519,
+                        "lng": -83.69986015080589,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.24480408303519,
+                                "lng": -83.69986015080589
+                            }
+                        ],
+                        "postalCode": "48108",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "3000 Packard St",
+                            "Ann Arbor, MI 48108",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4b386825f964a520f84d25e3",
+                    "name": "Bell's Pizza",
+                    "location": {
+                        "address": "700 Packard St",
+                        "crossStreet": "State St.",
+                        "lat": 42.2706909489919,
+                        "lng": -83.74048465429217,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.2706909489919,
+                                "lng": -83.74048465429217
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "700 Packard St (State St.)",
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "51e743b3498e9a332a26c096",
+                    "name": "\u03c0 (Pi - A2 Pizza Wood-fired)",
+                    "location": {
+                        "lat": 42.2802619934082,
+                        "lng": -83.75025177001953,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.2802619934082,
+                                "lng": -83.75025177001953
+                            }
+                        ],
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Ann Arbor, MI",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1cb941735",
+                            "name": "Food Truck",
+                            "pluralName": "Food Trucks",
+                            "shortName": "Food Truck",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5048e482e4b0f94aaafeca37",
+                    "name": "A2 Pizza",
+                    "location": {
+                        "lat": 42.280355,
+                        "lng": -83.750341,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.280355,
+                                "lng": -83.750341
+                            }
+                        ],
+                        "postalCode": "48104",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Ann Arbor, MI 48104",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1cb941735",
+                            "name": "Food Truck",
+                            "pluralName": "Food Trucks",
+                            "shortName": "Food Truck",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/streetfood_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4bd0f5f3caff9521f9fecff0",
+                    "name": "Anthony's Gourmet Pizza",
+                    "location": {
+                        "address": "1508 N Maple Rd",
+                        "crossStreet": "Miller",
+                        "lat": 42.29576537527371,
+                        "lng": -83.78371991404198,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.29576537527371,
+                                "lng": -83.78371991404198
+                            }
+                        ],
+                        "postalCode": "48103",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "1508 N Maple Rd (Miller)",
+                            "Ann Arbor, MI 48103",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1ca941735",
+                            "name": "Pizza Place",
+                            "pluralName": "Pizza Places",
+                            "shortName": "Pizza",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                },
+                {
+                    "id": "4ff08a03e4b0db77af433bb0",
+                    "name": "Pizza Hut Express",
+                    "location": {
+                        "address": "3000 Waters",
+                        "crossStreet": "in Target",
+                        "lat": 42.22743870096282,
+                        "lng": -83.77096811143241,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.22743870096282,
+                                "lng": -83.77096811143241
+                            }
+                        ],
+                        "postalCode": "48103",
+                        "cc": "US",
+                        "city": "Ann Arbor",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "3000 Waters (in Target)",
+                            "Ann Arbor, MI 48103",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d14e941735",
+                            "name": "American Restaurant",
+                            "pluralName": "American Restaurants",
+                            "shortName": "American",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572922336",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    },
+    "https://api.foursquare.com/v2/venues/search?client_id-TXHWJUU3WMVPAAKHFI0ZKAFFEOVNQD2LGGLSMCBQGIMDWPUQ_client_secret-4FPMNKDTDEPCCJ3X5SFNSNPG0YHWQMES4DU1ZX0W1L5EOAM0_limit-2_near-ann arbor_query-coffee shop_v-20191101": {
+        "meta": {
+            "code": 200,
+            "requestId": "5dc0f86c787dba003841e2e8"
+        },
+        "response": {
+            "venues": [
+                {
+                    "id": "512437f0e4b0ae7ce5bf66c8",
+                    "name": "Coffee Shop",
+                    "location": {
+                        "lat": 42.466021,
+                        "lng": -83.401454,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.466021,
+                                "lng": -83.401454
+                            }
+                        ],
+                        "postalCode": "48335",
+                        "cc": "US",
+                        "city": "Farmington",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Farmington, MI 48335",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d16d941735",
+                            "name": "Caf\u00e9",
+                            "pluralName": "Caf\u00e9s",
+                            "shortName": "Caf\u00e9",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572927596",
+                    "hasPerk": false
+                },
+                {
+                    "id": "5c826cd3237dee002c4c22be",
+                    "name": "Hyatt Place Coffee Shop",
+                    "location": {
+                        "lat": 42.48948,
+                        "lng": -83.50086,
+                        "labeledLatLngs": [
+                            {
+                                "label": "display",
+                                "lat": 42.48948,
+                                "lng": -83.50086
+                            }
+                        ],
+                        "postalCode": "48374",
+                        "cc": "US",
+                        "city": "Novi",
+                        "state": "MI",
+                        "country": "United States",
+                        "formattedAddress": [
+                            "Novi, MI 48374",
+                            "United States"
+                        ]
+                    },
+                    "categories": [
+                        {
+                            "id": "4bf58dd8d48988d1e0931735",
+                            "name": "Coffee Shop",
+                            "pluralName": "Coffee Shops",
+                            "shortName": "Coffee Shop",
+                            "icon": {
+                                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                                "suffix": ".png"
+                            },
+                            "primary": true
+                        }
+                    ],
+                    "referralId": "v-1572927596",
+                    "hasPerk": false
+                }
+            ],
+            "geocode": {
+                "what": "",
+                "where": "ann arbor",
+                "feature": {
+                    "cc": "US",
+                    "name": "Ann Arbor",
+                    "displayName": "Ann Arbor, MI, United States",
+                    "matchedName": "Ann Arbor, MI, United States",
+                    "highlightedName": "<b>Ann Arbor</b>, MI, United States",
+                    "woeType": 7,
+                    "slug": "ann-arbor-michigan",
+                    "id": "geonameid:4984247",
+                    "longId": "72057594042912183",
+                    "geometry": {
+                        "center": {
+                            "lat": 42.27756,
+                            "lng": -83.74088
+                        },
+                        "bounds": {
+                            "ne": {
+                                "lat": 42.323971,
+                                "lng": -83.67580699999999
+                            },
+                            "sw": {
+                                "lat": 42.222668,
+                                "lng": -83.799572
+                            }
+                        }
+                    }
+                },
+                "parents": []
+            }
+        }
+    }
+}

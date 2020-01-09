@@ -1,0 +1,7 @@
+# Your flickr key here
+client_id = 'TXHWJUU3WMVPAAKHFI0ZKAFFEOVNQD2LGGLSMCBQGIMDWPUQ'
+client_secret = '4FPMNKDTDEPCCJ3X5SFNSNPG0YHWQMES4DU1ZX0W1L5EOAM0'
+
+
+# Don't change this
+MAPBOX_TOKEN = "pk.eyJ1IjoicHJpbmNpcGxleiIsImEiOiJjam1taTE3dGowamRjM3FqcG50MGp0anEwIn0.XuaFZy4Tff6aTfjiQUdd9Q"
